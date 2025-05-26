@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: k8s-service-b
-          image: k8s-service-b:latest
+          image: aditydud/k8s-service-b:latest
           ports:
             - containerPort: 8001
