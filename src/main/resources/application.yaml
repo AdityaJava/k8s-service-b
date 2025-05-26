@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: k8s-service-b
+
+server:
+  port: 8001
